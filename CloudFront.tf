@@ -1,0 +1,1 @@
+# CloudFront to cache the movies content
